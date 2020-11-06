@@ -10,6 +10,7 @@ public class Question3 {
 		}
 		System.out.println("Starting number which has the highest collatz sequence is: "+k);
 	}
+//Function to find the collatz sequence of any number and return the length of the sequence
 	public static long colatz(long n) {
 		int ctr=0;
 		while(n!=1) {

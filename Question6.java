@@ -13,7 +13,7 @@ public class Question6 {
 				}
 			}
 		}
-//Function to check if a number if prime or not
+//Function to check if a number is prime or not
 	public static boolean primen(long n) {
 		long i,temp=0,ctr=0;
 		boolean prime;

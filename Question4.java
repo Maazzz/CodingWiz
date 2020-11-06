@@ -234,7 +234,7 @@ public class Question4 {
 		}
 		System.out.println("Day of the year is: "+day);
 	}
-	
+	//Function to check if the year is a leap year or not
 	public static int leap(int y) {
 		int bin;
 		if(y%4 == 0) {
